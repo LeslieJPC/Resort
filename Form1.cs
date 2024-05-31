@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace SpringBreak
 {
     public partial class Form1 : Form
-    {// Coded by Leslie Polley Cofer
+    {// Coded by ########
      // Definition of needed variables
         int NumGuests = 0, NumNights = 0, NumRooms = 0, RoomIndex = 0;
         double RoomCost = 0, TotalCost = 0;
