@@ -44,7 +44,7 @@ The application is developed in C# using Windows Forms. Below is a brief descrip
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/SpringBreak.git
+    git clone https://github.com/LeslieJPC/SpringBreak.git
     ```
 2. Open the project in Visual Studio.
 3. Build the solution to restore dependencies and compile the application.
